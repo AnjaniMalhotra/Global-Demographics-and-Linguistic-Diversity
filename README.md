@@ -104,3 +104,20 @@ The analysis is divided into sections:
 - Replaced missing **Life Expectancy** with continent medians.  
 - Dropped irrelevant column (`GNPOld`).  
 
+---
+
+## Dataset Source
+This dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/adilshamim8/world-cities-countries-and-languages-dataset/data):  
+**“World Cities, Countries & Languages Dataset”** by *adilshamim8*.  
+
+---
+
+## Licensing & Usage
+- Please ensure you comply with Kaggle’s terms of service and any license specified on the dataset page.  
+- If you share or publish results, cite this dataset properly.  
+- Any modifications to the data (cleaning, imputation) are my own.  
+
+---
+
+## Acknowledgements
+Thanks to *adilshamim8* for creating and sharing the dataset.  
